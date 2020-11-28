@@ -4,10 +4,15 @@
 types for your variables.
 
 a) Name
+
 b) Age (0-120)
+
 c) Index No
+
 d) Gender (M/F)
+
 e) Address
+
 f) Birthdate
 
 2 Use the above class to store the details of 5 students in your program. You can use an array
