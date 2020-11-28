@@ -2,6 +2,7 @@
 
 1 Write a C++ class that can store the following details of a student. Choose the suitable data
 types for your variables.
+
 a) Name
 b) Age (0-120)
 c) Index No
