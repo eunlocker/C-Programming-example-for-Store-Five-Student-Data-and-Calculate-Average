@@ -58,16 +58,16 @@ int main()
        cout << "Adress: " << s[i].adress << endl;
        cout << "Date Of Birth : " << s[i].dob << endl;
 	   
-	   //cal sum for average
+	  
         sum += s[i].age;
         studentcount=i+1;
         
     }
-	//cal average
+	 
 	
        average = sum / studentcount;
         cout << "Average = " << average;
-    //*******
+   
   
     return 0;
    
