@@ -1,4 +1,4 @@
-# C-Programming-example-for-Store-Five-Student-Data-and-Calculate-Average
+# C++ -Programming-example-for-Store-Five-Student-Data-and-Calculate-Average
 
 1 Write a C++ class that can store the following details of a student. Choose the suitable data
 types for your variables.
